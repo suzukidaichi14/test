@@ -1,0 +1,126 @@
+header{
+  background-color:#E82323 ;
+  background-size: 1615px;
+  background-image: url("https://lp.chatwork.com/image/7chatwork/img_hero_bg.png");
+  text-align: center;
+  padding-top:50px ;
+ margin-bottom:50px ;
+}
+
+.text_inner{
+  height: 500px;
+  position:relative; 
+  
+  
+}
+.text_imag{
+  height: 150px;
+  position:absolute; 
+  top: 35px;
+  left: 43%;
+}
+  
+.explanation p{
+  z-index: 4;
+  position:absolute; 
+  top:430px;
+  left: 36%;
+  
+}
+
+.wrapper{
+  max-width:1000px ;
+  margin: 0 auto 0 auto;
+}
+
+.pad1{
+ display: flex;
+}
+.pad1 h2{
+  font-size: 30px;
+  background-color: #E82323;
+  text-align: center;
+  color: white;
+  padding: 30px 40px ;
+  margin-right:35px ;
+}
+.pad1 h3{
+  color: #E82323;
+  font-size: 25px;
+  margin: 17px 0 0 0;
+}
+  
+.pad2{
+  display: flex;
+}
+
+.pad2 h2{
+  font-size: 30px;
+  text-align: center;
+  background-color: #E82323;
+  color: white;
+  padding:30px 40px;
+ margin-right:35px ;
+}
+.pad2 h3{
+  color: red;
+  font-size: 30px;
+}
+
+.element{
+  margin-top: 15px;
+  display: flex;
+  width: 33%;
+}
+.matter{
+  margin-right:27px ;
+}
+
+.icon img{
+  width: 300px;
+}
+.description h4{
+  text-align: center;
+  font-size: 25px;
+}
+.heading{
+  text-align: center;
+  margin-top: 80px;
+}
+.heading img{
+  width: 60%;
+}
+.case{
+  display: flex;
+  text-align: center;
+}
+.imag img{
+  width: 50%;
+}
+.data{
+  background-color: rgb(238, 238, 123);
+  margin: 7px;
+}
+.data h4{
+ font-size: 30px;
+ margin-bottom:0 ;
+}
+.data p{
+  margin-top: 0;
+}
+.arrow{
+  text-align: center;
+  margin: 50px 0;
+}
+.arrow img{
+  width: 150px;
+}
+
+footer{
+  background-color: gray;
+  text-align: center;
+  padding: 25px;
+}
+footer img{
+  width: 200px
+}
