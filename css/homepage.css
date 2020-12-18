@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+body{
+  margin: 0px;
+}
+>>>>>>> a197f2a (2)
 header{
   background-color:#E82323 ;
   background-size: 1615px;
@@ -29,7 +35,11 @@ header{
 }
 
 .wrapper{
+<<<<<<< HEAD
   max-width:1000px ;
+=======
+  max-width:950px ;
+>>>>>>> a197f2a (2)
   margin: 0 auto 0 auto;
 }
 
@@ -63,7 +73,11 @@ header{
  margin-right:35px ;
 }
 .pad2 h3{
+<<<<<<< HEAD
   color: red;
+=======
+  color: #E82323;
+>>>>>>> a197f2a (2)
   font-size: 30px;
 }
 
@@ -108,11 +122,25 @@ header{
 .data p{
   margin-top: 0;
 }
+<<<<<<< HEAD
+=======
+.link{
+  font-size: 15px
+}
+.link p{
+  margin: 0;
+}
+.link a{
+ color: #E82323;
+ margin-left:10px ;
+}
+>>>>>>> a197f2a (2)
 .arrow{
   text-align: center;
   margin: 50px 0;
 }
 .arrow img{
+<<<<<<< HEAD
   width: 150px;
 }
 
@@ -123,4 +151,156 @@ footer{
 }
 footer img{
   width: 200px
+=======
+  width: 165px;
+}
+.contents_three{
+  display: flex;
+ justify-content: space-between;
+}
+.list{
+  margin-right: 10px;
+  padding: 0 25px;
+}
+.list img{
+  height: 260px;
+  margin: 0;
+}
+.list h4{
+  font-size: 25px;
+  text-align: center;
+  margin-bottom:15px ;
+}
+.list p{
+  margin: 0;
+  font-size: 15px;
+  width: 270px;
+}
+.wrapper-two{
+  max-width: 1400px;
+  margin: 0 auto 0 auto;
+}
+.contents_four{
+  background-image:url(https://lp.chatwork.com/image/7chatwork/img_aim_circle.png) ;
+  background-size:contain;
+  background-repeat:no-repeat ;
+  background-position:center ;
+  margin-top: 40px;
+  
+  height: 1000px;
+}
+.caption{
+  text-align: center;
+}
+.caption img{
+  width: 600px;
+  margin-top: 200px;
+  margin-bottom:20px ; 
+}
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.example {
+  display: block;
+  color: white
+}
+.gist{
+display: flex;
+justify-content: center;
+}
+.point{
+  width: 270px;
+  margin:0 30px;
+  color: white;
+}
+.point img{
+  height: 260px;
+}
+.emphasis{
+  font-size: 40px;
+}
+.point h4{
+font-size: 20px;
+margin-bottom: 0px ;
+}
+.point p{
+margin-top: 10px;
+}
+.contents_five{
+  margin-top: 50px;
+}
+.subtitle{
+  width: 550px;
+  height: 240px;
+  background-color :#E82323;
+
+}
+.ad{
+  background-color: #E82323;
+  width: 195px;
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-bottom:35px ;
+  border-bottom: solid 2px white;
+}
+.as{
+  display: flex;
+  align-items: center;
+  margin-bottom:40px;
+}
+.af{
+  margin-left:25px ;
+  font-size: 18px;
+}
+.top{
+border-bottom:solid 3px #E82323 ;
+margin-bottom: 10px;
+}
+.ah{
+width: 400px;
+margin-bottom:3px ;
+}
+.ag{
+  width: 200px;
+  margin-bottom:15px ;
+}
+.ab{
+  color: #E82323;
+  font-size:16px ;
+  letter-spacing :1.5px;
+}
+.ar{
+  text-align: center;
+}
+.button{
+  display: flex;
+ 
+}
+.aq{
+  text-align: center;
+  background-color: #E82323;
+  display: block;
+  width: 370px;
+  padding: 30px 0;
+  color: white;
+  text-decoration:none;
+  border-radius: 5px;
+  margin-bottom:50px ;
+  font-size: 18px;
+  margin-left:auto ;
+  margin-right:auto ;
+  letter-spacing :3px;
+}
+footer{
+  background-color: gray;
+  text-align: center;
+  padding: 15px;
+}
+footer img{
+  width: 200px;
+  margin: 0px;
+
+>>>>>>> a197f2a (2)
 }
